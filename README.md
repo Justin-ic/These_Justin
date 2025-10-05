@@ -1,11 +1,9 @@
 # These_Justin
-Simplification of Photogrammetry-Derived Digital Surface Models (DSM) for Radio Wave Propagation Applications
-
-Author: OUATTARA Gninlnafanlan Justin
 
 ################################################################
 
  Author: OUATTARA Gninlnafanlan Justin
+ 
  Date: 2025-10-05
 
  Title: Simplification of Photogrammetric DSM for Radio Wave Propagation
